@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TimeZone/static/css/main.b2c287d3.css",
-    "main.js": "/TimeZone/static/js/main.4e9a1766.js",
-    "static/media/s1.png": "/TimeZone/static/media/s1.4a8dee3ef1e2b2277b6e.png",
-    "static/media/s3.webp": "/TimeZone/static/media/s3.35508a1cf524a7cc0ae8.webp",
-    "static/media/t1.png": "/TimeZone/static/media/t1.e1049dd3a1a52483bbef.png",
-    "static/media/heart.gif": "/TimeZone/static/media/heart.f6b174b8bbccde6892c9.gif",
-    "index.html": "/TimeZone/index.html",
-    "static/media/logo.webp": "/TimeZone/static/media/logo.8f48f524aecf8f49f6b1.webp",
-    "main.b2c287d3.css.map": "/TimeZone/static/css/main.b2c287d3.css.map",
-    "main.4e9a1766.js.map": "/TimeZone/static/js/main.4e9a1766.js.map"
+    "main.css": "/Timezone/static/css/main.b2c287d3.css",
+    "main.js": "/Timezone/static/js/main.78d07a46.js",
+    "static/media/s1.png": "/Timezone/static/media/s1.4a8dee3ef1e2b2277b6e.png",
+    "static/media/s3.webp": "/Timezone/static/media/s3.35508a1cf524a7cc0ae8.webp",
+    "static/media/t1.png": "/Timezone/static/media/t1.e1049dd3a1a52483bbef.png",
+    "static/media/heart.gif": "/Timezone/static/media/heart.f6b174b8bbccde6892c9.gif",
+    "index.html": "/Timezone/index.html",
+    "static/media/logo.webp": "/Timezone/static/media/logo.8f48f524aecf8f49f6b1.webp",
+    "main.b2c287d3.css.map": "/Timezone/static/css/main.b2c287d3.css.map",
+    "main.78d07a46.js.map": "/Timezone/static/js/main.78d07a46.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c287d3.css",
-    "static/js/main.4e9a1766.js"
+    "static/js/main.78d07a46.js"
   ]
 }
